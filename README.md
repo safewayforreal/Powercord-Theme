@@ -2,6 +2,5 @@
 A actually dark theme for Discord.
 
 # Support
-If a bug doesn't bother me I probably won't fix it.
-
-If there is a breaking bug, contact safewayforreals#1933.
+If I'm not bothered by a bug, I probably won't fix it.
+On the offhand that there is a breaking bug, contact safewayforreals#1933.
